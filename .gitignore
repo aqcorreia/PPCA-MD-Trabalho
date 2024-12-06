@@ -3,3 +3,16 @@
 /saida
 nomes_distintos.xlsx
 ~$nomes_distintos.xlsx
+~$df_portarias_mgi_first_1000.xlsx
+Untitled.ipynb
+portarias_mgi_lemmatized_blocks_spacy.csv
+portarias_com_embeddings2.csv
+portarias_com_embeddings.csv
+portarias_clusterizadas_grafos.csv
+portarias_clusterizadas.csv
+nomes_distintos_REVISADA.xlsx
+df_portarias_mgi_first_1000.xlsx
+df_portarias_mgi_1000.xlsx
+df_portarias_clusters.parquet
+dbscan_results.csv
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
