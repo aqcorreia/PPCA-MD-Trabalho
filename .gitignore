@@ -16,3 +16,4 @@ df_portarias_mgi_1000.xlsx
 df_portarias_clusters.parquet
 dbscan_results.csv
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/01_Extracao_LerZip-checkpoint.ipynb
